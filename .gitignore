@@ -1,3 +1,7 @@
 workflow/.bundle
 workflow/bundle
 .ruby-version
+apiKey.py
+apiKey.pyc
+*.pyc
+workflow/*.pyc
